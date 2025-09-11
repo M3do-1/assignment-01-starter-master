@@ -39,9 +39,17 @@ if (.Platform$OS.type == "unix") {
 ---
 subtitle: "GitHub username: `r git_user`"
 ---
-
 <!-- Write your Markdown below this line -->
 
+<!-- # Hello World! -->
+
+<!-- Try replacing # with ## in the RMarkdown file - what happens? -->
+
+<!-- ## Hellow World v2! -->
+<!-- It makes it got from 1 to 1.1 -->
+
+# How the Course Works
+`-` it's great and all just got a lot to learn.
 
 
 
