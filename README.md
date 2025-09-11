@@ -116,26 +116,19 @@ When you're finished, follow the directions in the **[How to submit](#how-to-sub
 
 ## How to submit
 
-To submit your assignment, follow the two steps below.
+To submit your assignment, follow the two steps below.  
 Your assignment will be graded for credit **after** you've completed both steps!
 
-1.  Save, commit, and push your completed R Markdown file so that everything is synchronized to GitHub.
-    If you do this right, then you will be able to view your completed file on the GitHub website.
+1. Save, commit, and push your completed R Markdown file so that everything is synchronized to GitHub.  
+   If you do this right, then you will be able to view your completed file on the GitHub website.
 
-2.  Knit your R Markdown document to the PDF format, and then upload that PDF to the *Assignment 1* posting on Blackboard.
+2. Knit your R Markdown document to the PDF format, and then upload that PDF to the *Assignment 1* posting on Blackboard.
 
 ## Cheatsheets
 
 You should keep the following reference handy while working on this assignment:
 
-*   [RMarkdown cheatsheet][rmarkdown-reference]
+* [RMarkdown cheatsheet][rmarkdown-reference]
 
 [rmarkdown-reference]:     https://gmuedu-my.sharepoint.com/:b:/g/personal/dwhite34_gmu_edu/EVIYGxih4MZJraTEDgBWuxsBd1_unhWer0pf2CSaMX0i2A?e=0VaaUS
 [rmarkdown-recreate-pdf]:  https://gmuedu-my.sharepoint.com/:b:/g/personal/dwhite34_gmu_edu/ESKWurLFXaFKnqnAo-krkXEBPP6h7gz9Fe-JIVPJCjzEhg
-<<<<<<< HEAD
-
-#   a s s i g n m e n t - 0 1 - s t a r t e r - m a s t e r 
- 
- 
-=======
->>>>>>> 721bb47e40074440d1ac3da61c791a86d99cf6c8
