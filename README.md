@@ -132,7 +132,10 @@ You should keep the following reference handy while working on this assignment:
 
 [rmarkdown-reference]:     https://gmuedu-my.sharepoint.com/:b:/g/personal/dwhite34_gmu_edu/EVIYGxih4MZJraTEDgBWuxsBd1_unhWer0pf2CSaMX0i2A?e=0VaaUS
 [rmarkdown-recreate-pdf]:  https://gmuedu-my.sharepoint.com/:b:/g/personal/dwhite34_gmu_edu/ESKWurLFXaFKnqnAo-krkXEBPP6h7gz9Fe-JIVPJCjzEhg
+<<<<<<< HEAD
 
 #   a s s i g n m e n t - 0 1 - s t a r t e r - m a s t e r 
  
  
+=======
+>>>>>>> 721bb47e40074440d1ac3da61c791a86d99cf6c8
